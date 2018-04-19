@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2020
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ABC_MVC", "ABC_MVC\ABC_MVC.csproj", "{3282A2F0-EC80-487A-AE16-9B86E642049A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3282A2F0-EC80-487A-AE16-9B86E642049A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3282A2F0-EC80-487A-AE16-9B86E642049A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3282A2F0-EC80-487A-AE16-9B86E642049A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3282A2F0-EC80-487A-AE16-9B86E642049A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		EnterpriseLibraryConfigurationToolBinariesPathV6 = packages\EnterpriseLibrary.Common.6.0.1304.0\lib\NET45;packages\EnterpriseLibrary.Data.6.0.1304.0\lib\NET45
+		SolutionGuid = {C5F5988D-BFAB-469D-88F6-D6CC2FC1EA75}
+	EndGlobalSection
+EndGlobal
